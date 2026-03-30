@@ -1,5 +1,10 @@
-Prerequisites:
-Python 3.10+ installed
-An Anthropic API key from console.anthropic.com
+# ==============================================================================
+# requirements.txt
+# ==============================================================================
+# Install: pip install -r requirements.txt
+# Python version: 3.10+
+# ==============================================================================
 
-pip install anthropic python-dotenv gradio
+anthropic
+python-dotenv
+gradio

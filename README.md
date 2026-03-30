@@ -99,7 +99,7 @@ The agent maintains conversation context across the session.
 priority-pilot/
 ├── priority_pilot.py   # Core agent (CLI + logic)
 ├── ui.py               # Gradio web UI
-├── .env                # API key (never commit this)
+├── demo
 ├── requirements.txt
 └── README.md
 ```
@@ -122,6 +122,14 @@ priority-pilot/
 - Gradio (optional UI)
 
 ---
+
+## Author
+
+Built by **[ChuksForge]**
+
+- Portfolio: chuksforge.github.io
+- GitHub: [github.com/ChuksForge](https://github.com/ChuksForge)
+- Email: chuksprompts@gmail.com
 
 ## License
 
