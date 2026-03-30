@@ -1,0 +1,5 @@
+Prerequisites:
+Python 3.10+ installed
+An Anthropic API key from console.anthropic.com
+
+pip install anthropic python-dotenv gradio
